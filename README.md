@@ -1,6 +1,6 @@
 
 ## Hi there! 👋 I'm Andrew Stelmach.
-🏫 I'm a student at Northeastern University with a strong interest in artificial intelligence and machine learning. In my free time, I enjoy tinkering with different programming languages and tools to build cool projects.
+🏫 I'm a student at Northeastern University with a strong interest in artificial intelligence and machine learning. In my free time, I enjoy tinkering with and supporting cool projects.
 
 ### 🔭 My Projects
 Here are some of the projects I've worked on:
