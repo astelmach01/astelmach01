@@ -5,9 +5,9 @@
 ### 🔭 My Projects
 Here are some of the projects I've worked on:
 
-#### 🤖 AgentGPT: A project that allows you to assemble, configure, and deploy autonomous AI agents in your browser. Actively contributing.
+#### 🤖 [AgentGPT](https://github.com/reworkd/AgentGPT) : A project that allows you to assemble, configure, and deploy autonomous AI agents in your browser. Actively contributing.
 
-#### 🤖 Auto-GPT: An experimental open-source attempt to make GPT-4 fully autonomous. I forked this project and plan to make some contribution.
+#### 🤖 [Auto-GPT](https://github.com/Torantulino/Auto-GPT): An experimental open-source attempt to make GPT-4 fully autonomous. I forked this project and plan to make some contribution.
 
 #### 🏀 NBA (in-progress): A Python project that scrapes and analyzes NBA stats to make more informed sports betting decisions.
 
