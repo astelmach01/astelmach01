@@ -18,7 +18,7 @@ Here are some of the projects I've worked on:
 ### 🌱 Learning and Exploring
 I'm always looking to learn and explore new technologies. Some areas I'm currently interested in include:
 
-- Web Development
+- Networks + Ethical Hacking
 - Reinforcement Learning
 - Blockchain technology
 
