@@ -2,8 +2,6 @@
 ## Hi there! 👋 I'm Andrew Stelmach.
 🏫 I'm a student at Northeastern University with a strong interest in artificial intelligence and machine learning. In my free time, I enjoy tinkering with and supporting cool projects.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=astelmach01)](https://github.com/anuraghazra/github-readme-stats)
-
 ### 🔭 My Projects
 Here are some of the projects I've contributed to:
 
