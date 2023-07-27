@@ -9,11 +9,11 @@ Here are some of the projects I've contributed to:
 
 #### 🤖 [AgentGPT](https://github.com/reworkd/AgentGPT) : A project that allows you to assemble, configure, and deploy autonomous AI agents in your browser.
 
-#### 🏀 NBA (in-progress): Scrapes and analyzes NBA stats to make more informed sports betting decisions.
+#### 🏀 [NBA](https://github.com/astelmach01/NBA) (in-progress): Scrapes and analyzes NBA stats to make more informed sports betting decisions.
 
-#### 🎵 Spotify: Provides song recommendations based on a classic Feed Forward architecture and a Variational Autoencoder architecture.
+#### 🎵 [Spotify](https://github.com/astelmach01/Spotify): Provides song recommendations based on a classic Feed Forward architecture and a Variational Autoencoder architecture.
 
-#### 🍄 Mario-Q_Learning: Deep Q-learning to beat Mario Bros.
+#### 🍄 [Mario-Q_Learning](https://github.com/astelmach01/Mario-Q_Learning): Deep Q-learning to beat Mario Bros.
 
 
 💬 Let's Connect!
