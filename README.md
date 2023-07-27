@@ -5,11 +5,9 @@
 ### 🔭 My Projects
 Here are some of the projects I've contributed to:
 
-#### 🤫 Something with Telegram 
+####  [Telegram API](https://github.com/astelmach01/TelegramAPI) A REST API for Telegram Clients. Originally made to support my Pipedrive Provider API, this can be extended to use convert the annoying MTProto protocol to be compatible with REST.
 
-#### 🤖 [AgentGPT](https://github.com/reworkd/AgentGPT) : A project that allows you to assemble, configure, and deploy autonomous AI agents in your browser. Actively contributing.
-
-#### 🤖 [Auto-GPT](https://github.com/Torantulino/Auto-GPT): An experimental open-source attempt to make GPT-4 fully autonomous. I forked this project and plan to make some contribution.
+#### 🤖 [AgentGPT](https://github.com/reworkd/AgentGPT) : A project that allows you to assemble, configure, and deploy autonomous AI agents in your browser.
 
 #### 🏀 NBA (in-progress): A Python project that scrapes and analyzes NBA stats to make more informed sports betting decisions.
 
