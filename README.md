@@ -5,7 +5,7 @@
 ### 🔭 My Projects
 Here are some of the projects I've contributed to:
 
-####  [Telegram API](https://github.com/astelmach01/TelegramAPI) A REST API for Telegram Clients. Originally made to support my Pipedrive Provider API, this can be extended to use convert the annoying MTProto protocol to be compatible with REST.
+#### 📬 [Telegram API](https://github.com/astelmach01/TelegramAPI) A REST API for Telegram Clients. Originally made to support my Pipedrive Provider API, this can be extended to use convert the annoying MTProto protocol to be compatible with REST.
 
 #### 🤖 [AgentGPT](https://github.com/reworkd/AgentGPT) : A project that allows you to assemble, configure, and deploy autonomous AI agents in your browser.
 
