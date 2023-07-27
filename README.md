@@ -11,7 +11,7 @@ Here are some of the projects I've contributed to:
 
 #### 🏀 NBA (in-progress): A Python project that scrapes and analyzes NBA stats to make more informed sports betting decisions.
 
-#### 🎵 Spotify: A Python project that interacts with the Spotify Web API to fetch information about users' playlists and tracks.
+#### 🎵 Spotify: A Python project for a university machine learning course that provides song recommendations based on a classic Feed Forward architecture and a Variational Autoencoder architecture.
 
 #### 🍄 Mario-Q_Learning: A Python project that uses Q-learning to teach an agent how to beat Mario Bros level.
 
