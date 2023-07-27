@@ -13,7 +13,7 @@ Here are some of the projects I've contributed to:
 
 #### 🎵 Spotify: Provides song recommendations based on a classic Feed Forward architecture and a Variational Autoencoder architecture.
 
-#### 🍄 Mario-Q_Learning: A Python project that uses Q-learning to teach an agent how to beat Mario Bros level.
+#### 🍄 Mario-Q_Learning: Deep Q-learning to beat Mario Bros.
 
 
 💬 Let's Connect!
