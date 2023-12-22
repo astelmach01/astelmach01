@@ -7,6 +7,9 @@
 ### 🔭 My Projects
 Here are some of the projects I've created:
 
+#### 💡 [Cosmo Backend](https://github.com/astelmach01/Cosmo-backend/tree/main) & [Cosmo Frontend](https://github.com/astelmach01/Cosmo-frontend)
+Cosmo is an AI assistant that can handle reminders for you and is your sidekick.
+
 #### 🦜 [tinylang](https://github.com/astelmach01/tinylang)
 A barebones language chain.
 
@@ -15,9 +18,6 @@ A REST API for Telegram Clients. Originally made to support my Pipedrive Provide
 
 #### 🤖 [AgentGPT](https://github.com/reworkd/AgentGPT)
 A project that allows you to assemble, configure, and deploy autonomous AI agents in your browser.
-
-#### 🏀 [NBA](https://github.com/astelmach01/NBA) (in-progress)
-Scrapes and analyzes NBA stats to make more informed sports betting decisions.
 
 #### 🎵 [Spotify](https://github.com/astelmach01/Spotify)
 Provides song recommendations based on a classic Feed Forward architecture and a Variational Autoencoder architecture.
