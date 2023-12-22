@@ -5,7 +5,7 @@
 ### 🔭 My Projects
 Here are some of the projects I've created:
 
-### 🦜 [tinylang](https://github.com/astelmach01/tinylang) A barebones langchain
+#### 🦜 [tinylang](https://github.com/astelmach01/tinylang) A barebones langchain
 
 #### 📬 [Telegram API](https://github.com/astelmach01/TelegramAPI) A REST API for Telegram Clients. Originally made to support my Pipedrive Provider API, this can be extended to use convert the annoying MTProto protocol to be compatible with REST.
 
